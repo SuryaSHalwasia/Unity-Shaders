@@ -29,33 +29,33 @@ fireball effect.
  <br />
  <br />
 
-<img src="readme-images/fireball.JPG" alt="Fireball" >
+![Fireball Shader](https://static.wixstatic.com/media/4d9930_bb593b236c3d46bdae14ce010c8670cd~mv2.jpg/v1/fill/w_600,h_331,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/fireball_JPG.jpg)
 
 #### 2. Fresnel Shader
 This shader implements the fresnel effect over an object along with properties to adjust the rim effect.
 
 <br />
  <br />
-
-<img src="readme-images/fresnel.JPG" alt="Fresnel" >
+ 
+![Fresnel Shader](https://static.wixstatic.com/media/4d9930_5daae8f6635542f78241b9d2ed44a53c~mv2.jpg/v1/fill/w_600,h_331,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/4d9930_5daae8f6635542f78241b9d2ed44a53c~mv2.jpg)
 
 #### 3. Blinn Phong Shader
 This shader implements the Blinn Phong lighting model.
 <br />
  <br />
 
-<img src="readme-images/blinnphong.JPG" alt="BlinnPhong" >
+![Blinn Phong](https://static.wixstatic.com/media/4d9930_75714d28416841cda11646c36537361e~mv2.jpg/v1/fill/w_600,h_335,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/4d9930_75714d28416841cda11646c36537361e~mv2.jpg)
 
 #### 4. Grayscale Post Processing Effect shader
 This shader generates a grayscale effect which can be used in post-processing.
 <br />
  <br />
 
-<img src="readme-images/gray.JPG" alt="GrayscalePP" >
+![Grayscale PP](https://static.wixstatic.com/media/4d9930_e9bd9f81d24644bca79b131902af457e~mv2.jpg/v1/fill/w_600,h_336,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/4d9930_e9bd9f81d24644bca79b131902af457e~mv2.jpg)
 
 #### 5. Glass Shader
 This shader applies a glass-like surface effect on the object.
 <br />
  <br />
 
-<img src="readme-images/glass.JPG" alt="Glass" >
+![Glass](https://static.wixstatic.com/media/4d9930_39b7f8f7ebbe4653aa1fd22ea1b85226~mv2.jpg/v1/fill/w_600,h_330,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/4d9930_39b7f8f7ebbe4653aa1fd22ea1b85226~mv2.jpg)
