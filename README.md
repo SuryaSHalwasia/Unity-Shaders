@@ -6,12 +6,12 @@
 
 <h3 align="center">CODE SAMPLES</h3>
 
-  <p align="center">
+<p align="center">
     SURYAPRAKASH HALWASIA
-    <br />
+<br />
   
-    <br />
-    </p>
+<br />
+</p>
 
 
 <!-- UNITY SHADERS -->
